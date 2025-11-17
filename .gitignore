@@ -1,0 +1,21 @@
+# Ignore training data
+spam/
+notspam/
+
+# Ignore all text files (optional — only if you want)
+# *.txt
+
+# Build artifacts
+bin/
+obj/
+
+# VS / Rider / C# IDE files
+*.user
+*.suo
+*.tmp
+*.log
+.vs/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
