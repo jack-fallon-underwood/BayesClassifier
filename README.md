@@ -39,6 +39,7 @@ dotnet restore
 4. Run the classifier using:
 ```bash
 dotnet run
+```
 
 The program will display:
 
