@@ -23,6 +23,7 @@ Clone the repository and restore dependencies:
 git clone https://github.com/your-username/NaiveBayesEmailClassifier.git
 cd NaiveBayesEmailClassifier
 dotnet restore
+```
 
 ## Usage
 
